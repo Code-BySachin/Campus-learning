@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-06-13T13:35:44.479Z",
+  "version": "0.1.0",
+  "features": {
+    "all": [],
+    "released": [],
+    "comingSoon": [],
+    "inDevelopment": [],
+    "planned": []
+  },
+  "pathMappings": {
+    "/goals": "available",
+    "/journey": "available"
+  }
+}
