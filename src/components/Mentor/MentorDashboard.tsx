@@ -16,8 +16,7 @@ import {
   ArrowRight,
   UserCheck,
   GraduationCap,
-  Star,
-  AlertCircle
+  Star
 } from 'lucide-react';
 import MentorCampusTab from '../Admin/MentorCampusTab';
 import { SpinnerLoader } from '../Common/BoltLoaderComponent';
